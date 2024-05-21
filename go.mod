@@ -1,3 +1,3 @@
-module github.com/FanNoof/training/collaboration_and_crawling/gomod-handsonexercise4
+module github.com/FanNoof/quotes
 
 go 1.22.3
